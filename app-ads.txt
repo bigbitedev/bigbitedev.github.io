@@ -1,9 +1,4 @@
-#=======orakserver
-
-google.com, pub-4717933932434324, DIRECT, f08c47fec0942fa0
-
-#=======business.orakinc
-google.com, pub-3082150061221096, DIRECT, f08c47fec0942fa0
+google.com, pub-5114442559887885, DIRECT, f08c47fec0942fa0
 
 #======= reinhart38
 facebook.com, 2110705705823885, DIRECT, c3e20eee3f780d68
