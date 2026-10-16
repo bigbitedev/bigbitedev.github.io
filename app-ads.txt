@@ -2,7 +2,8 @@ google.com, pub-5114442559887885, DIRECT, f08c47fec0942fa0
 
 #======= reinhart38
 facebook.com, 2110705705823885, DIRECT, c3e20eee3f780d68
-
+#voodoo testing 
+facebook.com, 2110705705823885, RESELLER, c3e20eee3f780d68
 #pangle
 OwnerDomain=bigbitedev.github.io
 pangleglobal.com,82850,DIRECT
